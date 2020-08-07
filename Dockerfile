@@ -1,2 +1,2 @@
-FROM nginx:ver1
+FROM nginx
 ENV AUTOHR="Makoto Ikarashi"
